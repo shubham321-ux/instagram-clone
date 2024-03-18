@@ -1,13 +1,13 @@
-### Instagram Clone Project
+# Instagram Clone Project
 This project is a simple Instagram clone that allows users to sign up, log in, post pictures, like pictures, edit their profiles, follow other users, and view posts from users they follow.
 
 ## Technologies Used
-# Node.js
-# Express
-# MongoDB
-# EJS (Embedded JavaScript)
-# Tailwind CSS
-# Getting Started
+### Node.js
+### Express
+### MongoDB
+### EJS (Embedded JavaScript)
+### Tailwind CSS
+### Getting Started
 3 To get started with the project, follow these steps:
 
 Clone the repository to your local machine:
